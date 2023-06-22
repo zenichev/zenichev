@@ -11,10 +11,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+For future:
+
+[![zenichev's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenichev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![zenichev's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenichev&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
 
 <!-- Stole this idea from: https://github.com/BEPb/BEPb/blob/main/README.md -->
 ![zenichev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zenichev&theme=github-compact)
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![zenichev's github stats](https://github-readme-stats.vercel.app/api?username=zenichev&show_icons=true&theme=radical&include_all_commits=true) | ![zenichev's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zenichev&theme=radical&layout=compact) |
+| [![zenichev's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenichev&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | ![zenichev's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zenichev&theme=radical&layout=compact) |
