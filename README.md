@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **zenichev/zenichev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Stole this idea from: https://github.com/BEPb/BEPb/blob/main/README.md -->
+![zenichev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zenichev&theme=github-compact)
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![zenichev's github stats](https://github-readme-stats.vercel.app/api?username=zenichev&show_icons=true&theme=radical&include_all_commits=true) | ![zenichev's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zenichev&theme=radical&layout=compact) |
